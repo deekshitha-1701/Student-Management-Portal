@@ -5,29 +5,28 @@ This project demonstrates a modern UI for managing student information such as r
 
 ---
 
-## 🚀 Live Demo
-*(Optional - add your GitHub Pages link here)*  
+##  Live Demo
 https://your-username.github.io/Student-Management-Portal/
 
 ---
 
-## 📌 Project Features
+## Project Features
 
-### 🏠 Home Page
+###  Home Page
 - Responsive navbar with dropdown
 - Hero section with welcome message
 - Feature cards (Registration, Attendance, Results)
 - Footer with social links
 - Carousel (optional enhancement)
 
-### 📝 Student Registration Page
+###  Student Registration Page
 - Full student registration form
 - Input validation (HTML5)
 - File upload option (profile photo)
 - Terms & conditions checkbox
 - Responsive Bootstrap layout
 
-### 📊 Student Dashboard
+###  Student Dashboard
 - Statistics cards:
   - Total Students
   - Present Students
@@ -37,7 +36,7 @@ https://your-username.github.io/Student-Management-Portal/
 - Responsive data table
 - Badge-based attendance display
 
-### 👤 Student Profile Page
+###  Student Profile Page
 - Profile card layout
 - Student details display
 - Profile image with styling
@@ -50,7 +49,7 @@ https://your-username.github.io/Student-Management-Portal/
 
 ---
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
@@ -60,16 +59,16 @@ https://your-username.github.io/Student-Management-Portal/
 
 ---
 
-## 📱 Responsive Design
+##  Responsive Design
 
 The portal is fully responsive and works on:
-- 📱 Mobile devices (<576px)
-- 📟 Tablets (≥768px)
-- 💻 Desktop (≥992px)
+-  Mobile devices (<576px)
+-  Tablets (≥768px)
+-  Desktop (≥992px)
 
 ---
 
-## 🌙 Extra Features (Bonus)
+##  Extra Features (Bonus)
 
 - Dark Mode toggle 🌙  
 - Bootstrap Accordion (FAQ section)  
