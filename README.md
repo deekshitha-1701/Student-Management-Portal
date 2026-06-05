@@ -6,6 +6,10 @@ This project demonstrates a modern UI for managing student information such as r
 
 ---
 
+# 📸 Screenshots
+## 🏠 Home Page
+![Home Page](images/s1.png) 
+
 ##  Technologies Used
 
 - HTML5
@@ -21,17 +25,6 @@ The portal is fully responsive and works on:
 -  Mobile devices (<576px)
 -  Tablets (≥768px)
 -  Desktop (≥992px)
-
----
-
-##  Extra Features (Bonus)
-
-- Dark Mode toggle 🌙  
-- Bootstrap Accordion (FAQ section)  
-- Bootstrap Modal (Login popup)  
-- Bootstrap Alerts (Announcements)  
-- Student ID Card design  
-- Carousel (image slider)  
 
 ---
 
