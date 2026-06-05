@@ -3,49 +3,6 @@
 A responsive multi-page Student Management Portal built using **HTML5, CSS3, and Bootstrap 5**.  
 This project demonstrates a modern UI for managing student information such as registration, dashboard analytics, profiles, and contact forms.
 
----
-
-##  Live Demo
-[https://deekshitha-1701.github.io/Student-Management-Portal/](https://student-management-portal-steel.vercel.app/)
-
----
-
-## Project Features
-
-###  Home Page
-- Responsive navbar with dropdown
-- Hero section with welcome message
-- Feature cards (Registration, Attendance, Results)
-- Footer with social links
-- Carousel (optional enhancement)
-
-###  Student Registration Page
-- Full student registration form
-- Input validation (HTML5)
-- File upload option (profile photo)
-- Terms & conditions checkbox
-- Responsive Bootstrap layout
-
-###  Student Dashboard
-- Statistics cards:
-  - Total Students
-  - Present Students
-  - Absent Students
-  - Placements
-- Search bar for students
-- Responsive data table
-- Badge-based attendance display
-
-###  Student Profile Page
-- Profile card layout
-- Student details display
-- Profile image with styling
-- Edit profile button
-
-### 📩 Contact Page
-- Contact form (Name, Email, Subject, Message)
-- Bootstrap alert for announcements
-- Modal login form
 
 ---
 
@@ -54,7 +11,6 @@ This project demonstrates a modern UI for managing student information such as r
 - HTML5
 - CSS3
 - Bootstrap 5
-- JavaScript (Basic DOM for Dark Mode)
 - Responsive Web Design
 
 ---
@@ -78,3 +34,7 @@ The portal is fully responsive and works on:
 - Carousel (image slider)  
 
 ---
+
+##  Repository link
+
+https://www.github.com/deekshitha-1701/Student-Management-Portal
