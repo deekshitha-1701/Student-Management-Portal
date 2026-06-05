@@ -8,12 +8,13 @@ This project demonstrates a modern UI for managing student information such as r
 
 #  Screenshots
 ##  Home Page
-![Home Page](s1.png) 
-![Home Page](s2.PNG) 
+![Home Page1](s1.png) 
+![Home Page2](s2.PNG) 
 ##  Contact Page
 ![Contact Page](s3.PNG)
 ## Mobile View
-![Mobile view ](s4.PNG,s5.PNG)
+![Mobile View](s4.PNG) 
+![Mobile View](s5.PNG) 
  
 
 ##  Technologies Used
