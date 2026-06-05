@@ -6,11 +6,13 @@ This project demonstrates a modern UI for managing student information such as r
 
 ---
 
-# 📸 Screenshots
-## 🏠 Home Page
+#  Screenshots
+##  Home Page
 ![Home Page](s1.png) 
 ![Home Page](s2.png) 
-![Contact Page](s3.png) 
+##  Contact Page
+![Contact Page](s3.png)
+## Mobile View
 ![Mobile view ](s4.png,s5.png)
  
 
