@@ -6,7 +6,7 @@ This project demonstrates a modern UI for managing student information such as r
 ---
 
 ##  Live Demo
-[https://your-username.github.io/Student-Management-Portal/](https://student-management-portal-steel.vercel.app/)
+[https://deekshitha-1701.github.io/Student-Management-Portal/](https://student-management-portal-steel.vercel.app/)
 
 ---
 
