@@ -80,3 +80,19 @@ The portal is fully responsive and works on:
 ---
 
 ## 📁 Folder Structure
+Student_management_Portal
+|____index.html
+|____register.html
+|___student-dashboard.html
+|___student-profile.html
+|___contact.html
+|___/styles
+      |___styles.css
+|___/images
+    |___attendance.avif
+    |___back.jpg
+    |___logo.png
+    |___profile.jfif
+    |___res.png
+    |___results.avif
+    |___student.avif
