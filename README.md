@@ -9,7 +9,7 @@ This project demonstrates a modern UI for managing student information such as r
 #  Screenshots
 ##  Home Page
 
-![Home Page1](s1.png) 
+![Home Page1](s1.PNG) 
 
 ![Home Page2](s2.PNG) 
 ##  Contact Page
